@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Görselden filigran kaldır",
+    "description": "Su işaretlerini seçin, değişiklikleri inceleyin ve önemli olan içeriği tutun."
+  },
+  "pdf-watermark-remover": {
+    "name": "PDF filigranlarını kaldır",
+    "description": "Su işaretlerini seçin, değişiklikleri inceleyin ve önemli olan içeriği tutun."
+  },
+  "word-watermark-remover": {
+    "name": "Word filigranlarını kaldır",
+    "description": "Su işaretlerini seçin, değişiklikleri inceleyin ve önemli olan içeriği tutun."
+  },
+  "ppt-watermark-remover": {
+    "name": "PowerPoint filigranlarını kaldır",
+    "description": "Su işaretlerini seçin, değişiklikleri inceleyin ve önemli olan içeriği tutun."
+  },
+  "video-compressor": {
+    "name": "Video sıkıştır",
+    "description": "Daha küçük bir dosya. Aynı büyük hikaye."
+  },
+  "image-compressor": {
+    "name": "Görsel sıkıştır",
+    "description": "Görüntülerinizin piksel olarak aydınlatılması."
+  },
+  "pdf-compressor": {
+    "name": "PDF sıkıştır",
+    "description": "Paylaşım kolay, okuma kolay belgeler."
+  },
+  "audio-compressor": {
+    "name": "Ses sıkıştır",
+    "description": "Daha az alan. Sesiniz için daha fazla yer."
+  },
+  "video-cutter": {
+    "name": "Video kes",
+    "description": "Önemli olan anları tutun."
+  },
+  "video-cropper": {
+    "name": "Video görüntüsünü kırp",
+    "description": "Her ekran için doğru çerçeveyi bul."
+  },
+  "audio-cutter": {
+    "name": "Ses düzenle",
+    "description": "Çıkar, çırpın ve doğru ses çıkarın."
+  },
+  "video-to-mp3": {
+    "name": "Videoyu MP3’e dönüştür",
+    "description": "Sesinizi yanınızda tutun."
+  },
+  "video-converter": {
+    "name": "Video dönüştür",
+    "description": "Her cihazda doğru formatta."
+  },
+  "audio-converter": {
+    "name": "Ses dönüştür",
+    "description": "Sesinizin her yere gitmesine izin verin."
+  },
+  "image-converter": {
+    "name": "Görsel dönüştür",
+    "description": "Her resim için taze bir formattır."
+  },
+  "transcription": {
+    "name": "Sesi ve videoyu metne dönüştür",
+    "description": "Konuşmalarınızı faydalı bir şey haline getirin."
+  },
+  "video-translator": {
+    "name": "Video çevir",
+    "description": "Hikayenize yeni bir dil verin."
+  },
+  "document-translator": {
+    "name": "Belge çevir",
+    "description": "Diller üzerinden. Yapı içeride birleşiyor."
+  },
+  "image-translator": {
+    "name": "Görsel çevir",
+    "description": "Dünyayı dilinizde okuyun."
+  }
+}

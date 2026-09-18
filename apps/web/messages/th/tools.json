@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "ลบลายน้ำจากรูปภาพ",
+    "description": "เลือกเครื่องหมายน้ําการตรวจสอบการเปลี่ยนแปลงและเก็บเนื้อหาที่สําคัญ"
+  },
+  "pdf-watermark-remover": {
+    "name": "ลบลายน้ำจาก PDF",
+    "description": "เลือกเครื่องหมายน้ําการตรวจสอบการเปลี่ยนแปลงและเก็บเนื้อหาที่สําคัญ"
+  },
+  "word-watermark-remover": {
+    "name": "ลบลายน้ำจาก Word",
+    "description": "เลือกเครื่องหมายน้ําการตรวจสอบการเปลี่ยนแปลงและเก็บเนื้อหาที่สําคัญ"
+  },
+  "ppt-watermark-remover": {
+    "name": "ลบลายน้ำจาก PowerPoint",
+    "description": "เลือกเครื่องหมายน้ําการตรวจสอบการเปลี่ยนแปลงและเก็บเนื้อหาที่สําคัญ"
+  },
+  "video-compressor": {
+    "name": "บีบอัดวิดีโอ",
+    "description": "ไฟล์ขนาดเล็ก เรื่องราวที่ยอดเยี่ยมเดียวกัน"
+  },
+  "image-compressor": {
+    "name": "บีบอัดรูปภาพ",
+    "description": "แสงรูปภาพของคุณ, pixel โดย pixel"
+  },
+  "pdf-compressor": {
+    "name": "บีบอัด PDF",
+    "description": "ง่ายต่อการแบ่งปันเอกสารที่สามารถอ่านได้ดีที่สุด"
+  },
+  "audio-compressor": {
+    "name": "บีบอัดเสียง",
+    "description": "พื้นที่น้อย พื้นที่มากขึ้นสําหรับเสียงของคุณ"
+  },
+  "video-cutter": {
+    "name": "ตัดวิดีโอ",
+    "description": "ปกป้องช่วงเวลาที่สําคัญ"
+  },
+  "video-cropper": {
+    "name": "ครอบตัดเฟรมวิดีโอ",
+    "description": "ค้นหากรอบที่เหมาะสมสําหรับแต่ละหน้าจอ"
+  },
+  "audio-cutter": {
+    "name": "แก้ไขเสียง",
+    "description": "Trim, fade, และทําให้มันเสียงเพียงพอ"
+  },
+  "video-to-mp3": {
+    "name": "แปลงวิดีโอเป็น MP3",
+    "description": "รับเสียงด้วยคุณ"
+  },
+  "video-converter": {
+    "name": "แปลงวิดีโอ",
+    "description": "รูปแบบที่เหมาะสมบนอุปกรณ์ใด ๆ"
+  },
+  "audio-converter": {
+    "name": "แปลงเสียง",
+    "description": "ให้เสียงของคุณไปทุกที่"
+  },
+  "image-converter": {
+    "name": "แปลงรูปภาพ",
+    "description": "รูปแบบใหม่สําหรับภาพแต่ละครั้ง"
+  },
+  "transcription": {
+    "name": "แปลงเสียงและวิดีโอเป็นข้อความ",
+    "description": "แปลงการสนทนาเป็นสิ่งที่เป็นประโยชน์"
+  },
+  "video-translator": {
+    "name": "แปลวิดีโอ",
+    "description": "ให้เรื่องราวของคุณเป็นภาษาใหม่"
+  },
+  "document-translator": {
+    "name": "แปลเอกสาร",
+    "description": "ภาษา ด้วยโครงสร้างที่ไม่มีตัว"
+  },
+  "image-translator": {
+    "name": "แปลรูปภาพ",
+    "description": "อ่านโลกในภาษาของคุณ"
+  }
+}

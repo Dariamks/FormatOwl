@@ -1,0 +1,14 @@
+{
+  "video": {
+    "inputBytes": 1636599,
+    "outputBytes": 161838
+  },
+  "image": {
+    "inputBytes": 12732,
+    "outputBytes": 23113
+  },
+  "pdf": {
+    "inputBytes": 2802262,
+    "outputBytes": 50549
+  }
+}

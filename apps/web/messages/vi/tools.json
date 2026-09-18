@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Xóa hình mờ khỏi ảnh",
+    "description": "Chọn các dấu hiệu nước, xem xét các thay đổi và giữ nội dung quan trọng."
+  },
+  "pdf-watermark-remover": {
+    "name": "Xóa hình mờ khỏi PDF",
+    "description": "Chọn các dấu hiệu nước, xem xét các thay đổi và giữ nội dung quan trọng."
+  },
+  "word-watermark-remover": {
+    "name": "Xóa hình mờ khỏi Word",
+    "description": "Chọn các dấu hiệu nước, xem xét các thay đổi và giữ nội dung quan trọng."
+  },
+  "ppt-watermark-remover": {
+    "name": "Xóa hình mờ khỏi PowerPoint",
+    "description": "Chọn các dấu hiệu nước, xem xét các thay đổi và giữ nội dung quan trọng."
+  },
+  "video-compressor": {
+    "name": "Nén video",
+    "description": "Một file nhỏ hơn. cùng một câu chuyện tuyệt vời."
+  },
+  "image-compressor": {
+    "name": "Nén ảnh",
+    "description": "Đèn lên hình ảnh của bạn, pixel by pixel."
+  },
+  "pdf-compressor": {
+    "name": "Nén PDF",
+    "description": "Tài liệu dễ chia sẻ, hoàn toàn đọc được."
+  },
+  "audio-compressor": {
+    "name": "Nén âm thanh",
+    "description": "Không gian ít hơn + Không gian cho âm thanh của bạn"
+  },
+  "video-cutter": {
+    "name": "Cắt đoạn video",
+    "description": "Hãy giữ những khoảnh khắc quan trọng."
+  },
+  "video-cropper": {
+    "name": "Cắt khung hình video",
+    "description": "Tìm đúng khung cho mỗi màn hình."
+  },
+  "audio-cutter": {
+    "name": "Chỉnh sửa âm thanh",
+    "description": "Trộn, lắc và làm cho nó nghe đúng."
+  },
+  "video-to-mp3": {
+    "name": "Video sang MP3",
+    "description": "Hãy mang theo âm thanh với bạn."
+  },
+  "video-converter": {
+    "name": "Chuyển đổi video",
+    "description": "Định dạng đúng, trên bất kỳ thiết bị nào."
+  },
+  "audio-converter": {
+    "name": "Chuyển đổi âm thanh",
+    "description": "Hãy để âm thanh của bạn đi bất cứ đâu."
+  },
+  "image-converter": {
+    "name": "Chuyển đổi ảnh",
+    "description": "Một định dạng mới cho mỗi hình ảnh."
+  },
+  "transcription": {
+    "name": "Chuyển âm thanh và video thành văn bản",
+    "description": "Chuyển đổi các cuộc trò chuyện thành một cái gì đó hữu ích."
+  },
+  "video-translator": {
+    "name": "Dịch video",
+    "description": "Hãy cho câu chuyện của bạn một ngôn ngữ mới."
+  },
+  "document-translator": {
+    "name": "Dịch tài liệu",
+    "description": "qua các ngôn ngữ. cấu trúc không thể thiếu."
+  },
+  "image-translator": {
+    "name": "Dịch ảnh",
+    "description": "Đọc thế giới bằng ngôn ngữ của bạn."
+  }
+}

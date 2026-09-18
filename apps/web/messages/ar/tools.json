@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "إزالة العلامات المائية من الصور",
+    "description": "اختر علامات المياه، ومراجعة التغييرات، والحفاظ على المحتوى الذي يهم."
+  },
+  "pdf-watermark-remover": {
+    "name": "إزالة العلامات المائية من PDF",
+    "description": "اختر علامات المياه، ومراجعة التغييرات، والحفاظ على المحتوى الذي يهم."
+  },
+  "word-watermark-remover": {
+    "name": "إزالة العلامات المائية من Word",
+    "description": "اختر علامات المياه، ومراجعة التغييرات، والحفاظ على المحتوى الذي يهم."
+  },
+  "ppt-watermark-remover": {
+    "name": "إزالة العلامات المائية من PowerPoint",
+    "description": "اختر علامات المياه، ومراجعة التغييرات، والحفاظ على المحتوى الذي يهم."
+  },
+  "video-compressor": {
+    "name": "ضغط الفيديو",
+    "description": "ملف صغير نفس القصة الكبيرة"
+  },
+  "image-compressor": {
+    "name": "ضغط الصور",
+    "description": "إضاءة الصور الخاصة بك، بكسل لكل بكسل."
+  },
+  "pdf-compressor": {
+    "name": "ضغط PDF",
+    "description": "وثائق سهلة المشاركة، قابلة للقراءة تماما."
+  },
+  "audio-compressor": {
+    "name": "ضغط الصوت",
+    "description": "أقل من المساحة المزيد من المساحة لصوتك"
+  },
+  "video-cutter": {
+    "name": "قص الفيديو",
+    "description": "الحفاظ على اللحظات التي تهم."
+  },
+  "video-cropper": {
+    "name": "اقتصاص إطار الفيديو",
+    "description": "العثور على الإطار الصحيح لكل شاشة."
+  },
+  "audio-cutter": {
+    "name": "تحرير الصوت",
+    "description": "قم بتحريكها، وتفكيكها، وجعلها تبدو صحيحة."
+  },
+  "video-to-mp3": {
+    "name": "تحويل الفيديو إلى MP3",
+    "description": "أخذ الصوت معك."
+  },
+  "video-converter": {
+    "name": "تحويل الفيديو",
+    "description": "النموذج الصحيح، على أي جهاز."
+  },
+  "audio-converter": {
+    "name": "تحويل الصوت",
+    "description": "دع صوتك يذهب إلى أي مكان."
+  },
+  "image-converter": {
+    "name": "تحويل الصور",
+    "description": "شكل جديد لكل صورة."
+  },
+  "transcription": {
+    "name": "تحويل الصوت والفيديو إلى نص",
+    "description": "تحويل المحادثات إلى شيء مفيد."
+  },
+  "video-translator": {
+    "name": "ترجمة الفيديو",
+    "description": "إعطاء قصتك لغة جديدة."
+  },
+  "document-translator": {
+    "name": "ترجمة المستندات",
+    "description": "عبر اللغات مع الهيكل غير المكتمل."
+  },
+  "image-translator": {
+    "name": "ترجمة الصور",
+    "description": "اقرأ العالم في لغتك"
+  }
+}

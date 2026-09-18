@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Buang tera air imej",
+    "description": "Pilih tanda air, ulasan perubahan, dan simpan kandungan yang penting."
+  },
+  "pdf-watermark-remover": {
+    "name": "Buang tera air PDF",
+    "description": "Pilih tanda air, ulasan perubahan, dan simpan kandungan yang penting."
+  },
+  "word-watermark-remover": {
+    "name": "Buang tera air Word",
+    "description": "Pilih tanda air, ulasan perubahan, dan simpan kandungan yang penting."
+  },
+  "ppt-watermark-remover": {
+    "name": "Buang tera air PowerPoint",
+    "description": "Pilih tanda air, ulasan perubahan, dan simpan kandungan yang penting."
+  },
+  "video-compressor": {
+    "name": "Mampatkan video",
+    "description": "fail yang lebih kecil. Kisah yang sama hebat."
+  },
+  "image-compressor": {
+    "name": "Mampatkan imej",
+    "description": "Mencerahkan imej anda, piksel per piksel."
+  },
+  "pdf-compressor": {
+    "name": "Mampatkan PDF",
+    "description": "Dokumen mudah dibahagikan, boleh dibaca dengan sempurna."
+  },
+  "audio-compressor": {
+    "name": "Mampatkan audio",
+    "description": "kurang ruang Lebih banyak ruang untuk bunyi anda."
+  },
+  "video-cutter": {
+    "name": "Potong video",
+    "description": "Tetaplah masa yang penting."
+  },
+  "video-cropper": {
+    "name": "Pangkas bingkai video",
+    "description": "Cari bingkai yang betul untuk setiap skrin."
+  },
+  "audio-cutter": {
+    "name": "Sunting audio",
+    "description": "Bercukur, bercukur, dan buat ia bunyi betul."
+  },
+  "video-to-mp3": {
+    "name": "Video ke MP3",
+    "description": "Ambil bunyi dengan anda."
+  },
+  "video-converter": {
+    "name": "Tukar format video",
+    "description": "Format yang betul, pada mana-mana peranti."
+  },
+  "audio-converter": {
+    "name": "Tukar format audio",
+    "description": "Biarkan audio anda pergi ke mana-mana sahaja."
+  },
+  "image-converter": {
+    "name": "Tukar format imej",
+    "description": "Format segar untuk setiap imej."
+  },
+  "transcription": {
+    "name": "Audio dan video kepada teks",
+    "description": "Mengubah perbualan menjadi sesuatu yang berguna."
+  },
+  "video-translator": {
+    "name": "Terjemah video",
+    "description": "Berikan cerita anda bahasa baru."
+  },
+  "document-translator": {
+    "name": "Terjemah dokumen",
+    "description": "melalui bahasa Melayu. dengan struktur yang tidak terintegrasi."
+  },
+  "image-translator": {
+    "name": "Terjemah imej",
+    "description": "Baca dunia dalam bahasa anda."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "docling": "2.127.0",
+  "models": [
+    {
+      "repo": "docling-project/docling-layout-heron",
+      "revision": "8f39ad3c0b4c58e9c2d2c84a38465abf757272d8",
+      "license": "Apache-2.0",
+      "patterns": ["*.json", "*.safetensors", "LICENSE*", "README.md"]
+    },
+    {
+      "repo": "docling-project/docling-models",
+      "revision": "2199320848bb9a8a519d22e4b528185a4f9a6f64",
+      "license": "CDLA-Permissive-2.0 / Apache-2.0",
+      "patterns": ["model_artifacts/tableformer/accurate/*", "LICENSE*", "README.md"]
+    }
+  ]
+}

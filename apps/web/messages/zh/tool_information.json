@@ -1,0 +1,13 @@
+{
+  "formats_and_limits_131c753": "支持的格式与限制",
+  "input_b568d47": "输入",
+  "output_4bed336": "输出",
+  "how_to_use_this_tool_5db405f": "如何使用",
+  "settings_and_results_356f281": "参数与效果",
+  "file_storage_and_deletion_2f7e739": "文件保存与删除",
+  "files_are_uploaded_and_processed_on_the_se_a49de44": "文件上传后由服务端处理，原件与结果以私有方式保存。只有对应账户或浏览器会话可以访问，下载使用短期链接。默认在上传 24 小时后过期，由清理进程删除；也可在工作台提前删除。当前本地默认额度为 24 小时最多上传 20 个文件。",
+  "read_the_usage_and_data_guide_cb055b8": "阅读使用与数据说明",
+  "common_questions_f07ac22": "常见问题",
+  "related_tools_0bdd4ec": "相关工具",
+  "helpful_guides_2c00610": "继续阅读"
+}

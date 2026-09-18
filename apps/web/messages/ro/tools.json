@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Elimină filigranele din imagini",
+    "description": "Selectați marcajele de apă, revizuiți modificările și păstrați conținutul care contează."
+  },
+  "pdf-watermark-remover": {
+    "name": "Elimină filigranele din PDF",
+    "description": "Selectați marcajele de apă, revizuiți modificările și păstrați conținutul care contează."
+  },
+  "word-watermark-remover": {
+    "name": "Elimină filigranele din Word",
+    "description": "Selectați marcajele de apă, revizuiți modificările și păstrați conținutul care contează."
+  },
+  "ppt-watermark-remover": {
+    "name": "Elimină filigranele din PowerPoint",
+    "description": "Selectați marcajele de apă, revizuiți modificările și păstrați conținutul care contează."
+  },
+  "video-compressor": {
+    "name": "Comprimă video",
+    "description": "Un fișier mai mic. Același mare poveste."
+  },
+  "image-compressor": {
+    "name": "Comprimă imaginea",
+    "description": "Înălțați imaginea, pixel pe pixel."
+  },
+  "pdf-compressor": {
+    "name": "Comprimă PDF",
+    "description": "Documente ușor de partajat, perfect citibile."
+  },
+  "audio-compressor": {
+    "name": "Comprimă audio",
+    "description": "Mai puţină spaţiu. Mai mult spațiu pentru sunetul tău."
+  },
+  "video-cutter": {
+    "name": "Taie videoclipul",
+    "description": "Păstrați momentele care contează."
+  },
+  "video-cropper": {
+    "name": "Decupează cadrul video",
+    "description": "Găsește-ți corecta cadru pentru fiecare ecran."
+  },
+  "audio-cutter": {
+    "name": "Editează audio",
+    "description": "Trim, fade, și face sunetul corect."
+  },
+  "video-to-mp3": {
+    "name": "Video în MP3",
+    "description": "Luați sunetul cu voi."
+  },
+  "video-converter": {
+    "name": "Convertește video",
+    "description": "Formatul corect, pe orice dispozitiv."
+  },
+  "audio-converter": {
+    "name": "Convertește audio",
+    "description": "Lăsați audio-ul să meargă oriunde."
+  },
+  "image-converter": {
+    "name": "Convertește imaginea",
+    "description": "Un format proaspăt pentru fiecare imagine."
+  },
+  "transcription": {
+    "name": "Audio și video în text",
+    "description": "Transformă conversațiile în ceva util."
+  },
+  "video-translator": {
+    "name": "Tradu videoclipul",
+    "description": "Dă-ți povestea o nouă limbă."
+  },
+  "document-translator": {
+    "name": "Tradu documentul",
+    "description": "Într-o limbă de cu o structură intactă."
+  },
+  "image-translator": {
+    "name": "Tradu imaginea",
+    "description": "Citiţi lumea în limba voastră."
+  }
+}

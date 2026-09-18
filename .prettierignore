@@ -1,0 +1,9 @@
+pnpm-lock.yaml
+.data
+node_modules
+.next
+playwright-report
+test-results
+apps/web/next-env.d.ts
+apps/web/AGENTS.md
+apps/web/CLAUDE.md

@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Remover marcas de água de imagens",
+    "description": "Selecione marcadores de água, revisar as mudanças e manter o conteúdo que importa."
+  },
+  "pdf-watermark-remover": {
+    "name": "Remover marcas de água de PDF",
+    "description": "Selecione marcadores de água, revisar as mudanças e manter o conteúdo que importa."
+  },
+  "word-watermark-remover": {
+    "name": "Remover marcas de água de Word",
+    "description": "Selecione marcadores de água, revisar as mudanças e manter o conteúdo que importa."
+  },
+  "ppt-watermark-remover": {
+    "name": "Remover marcas de água de PowerPoint",
+    "description": "Selecione marcadores de água, revisar as mudanças e manter o conteúdo que importa."
+  },
+  "video-compressor": {
+    "name": "Comprimir vídeo",
+    "description": "Um arquivo menor. A mesma grande história."
+  },
+  "image-compressor": {
+    "name": "Comprimir imagem",
+    "description": "Ilumina as suas imagens, pixel por pixel."
+  },
+  "pdf-compressor": {
+    "name": "Comprimir PDF",
+    "description": "Documentos simples de compartilhar, perfeitamente leíveis."
+  },
+  "audio-compressor": {
+    "name": "Comprimir áudio",
+    "description": "menos espaço. Mais espaço para o seu som."
+  },
+  "video-cutter": {
+    "name": "Cortar vídeo",
+    "description": "Mantenha os momentos que importam."
+  },
+  "video-cropper": {
+    "name": "Recortar o enquadramento do vídeo",
+    "description": "Encontre o quadro certo para cada tela."
+  },
+  "audio-cutter": {
+    "name": "Editar áudio",
+    "description": "Limpe, faça e faça que soa bem."
+  },
+  "video-to-mp3": {
+    "name": "Vídeo para MP3",
+    "description": "Tome o som com você."
+  },
+  "video-converter": {
+    "name": "Converter vídeo",
+    "description": "O formato certo, em qualquer dispositivo."
+  },
+  "audio-converter": {
+    "name": "Converter áudio",
+    "description": "Deixe seu áudio ir para qualquer lugar."
+  },
+  "image-converter": {
+    "name": "Converter imagem",
+    "description": "Um formato fresco para cada imagem."
+  },
+  "transcription": {
+    "name": "Áudio e vídeo para texto",
+    "description": "Conversa as conversas em algo útil."
+  },
+  "video-translator": {
+    "name": "Traduzir vídeo",
+    "description": "Dê a sua história uma nova língua."
+  },
+  "document-translator": {
+    "name": "Traduzir documento",
+    "description": "através das línguas. com estrutura intacta."
+  },
+  "image-translator": {
+    "name": "Traduzir imagem",
+    "description": "Leia o mundo em sua língua."
+  }
+}

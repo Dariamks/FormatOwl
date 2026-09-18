@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Watermerken uit afbeeldingen verwijderen",
+    "description": "Selecteer watermarkeringen, beoordel wijzigingen en behoud de inhoud die belangrijk is."
+  },
+  "pdf-watermark-remover": {
+    "name": "Watermerken uit PDF verwijderen",
+    "description": "Selecteer watermarkeringen, beoordel wijzigingen en behoud de inhoud die belangrijk is."
+  },
+  "word-watermark-remover": {
+    "name": "Watermerken uit Word verwijderen",
+    "description": "Selecteer watermarkeringen, beoordel wijzigingen en behoud de inhoud die belangrijk is."
+  },
+  "ppt-watermark-remover": {
+    "name": "Watermerken uit PowerPoint verwijderen",
+    "description": "Selecteer watermarkeringen, beoordel wijzigingen en behoud de inhoud die belangrijk is."
+  },
+  "video-compressor": {
+    "name": "Video comprimeren",
+    "description": "Een kleinere bestand. Hetzelfde geweldige verhaal."
+  },
+  "image-compressor": {
+    "name": "Afbeelding comprimeren",
+    "description": "Verlicht je afbeeldingen, pixels per pixel."
+  },
+  "pdf-compressor": {
+    "name": "PDF comprimeren",
+    "description": "Eenvoudig te delen, perfect leesbaar."
+  },
+  "audio-compressor": {
+    "name": "Audio comprimeren",
+    "description": "Minder ruimte Meer ruimte voor je geluid."
+  },
+  "video-cutter": {
+    "name": "Video inkorten",
+    "description": "Houd de momenten die belangrijk zijn."
+  },
+  "video-cropper": {
+    "name": "Videobeeld bijsnijden",
+    "description": "Vind de juiste frame voor elke scherm."
+  },
+  "audio-cutter": {
+    "name": "Audio bewerken",
+    "description": "Trim, fade, en maak het goed klinkt."
+  },
+  "video-to-mp3": {
+    "name": "Video naar MP3",
+    "description": "Neem de geluid met je mee."
+  },
+  "video-converter": {
+    "name": "Video converteren",
+    "description": "De juiste vorm, op elk apparaat."
+  },
+  "audio-converter": {
+    "name": "Audio converteren",
+    "description": "Laat je audio overal gaan."
+  },
+  "image-converter": {
+    "name": "Afbeelding converteren",
+    "description": "Een nieuw format voor elke afbeelding."
+  },
+  "transcription": {
+    "name": "Audio en video naar tekst",
+    "description": "Maak gesprekken nuttig."
+  },
+  "video-translator": {
+    "name": "Video vertalen",
+    "description": "Geef je verhaal een nieuwe taal."
+  },
+  "document-translator": {
+    "name": "Document vertalen",
+    "description": "door de talen. met een intact structuur."
+  },
+  "image-translator": {
+    "name": "Afbeelding vertalen",
+    "description": "Lees de wereld in je taal."
+  }
+}

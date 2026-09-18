@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "图片去水印",
+    "description": "圈选水印，预览背景修复效果。"
+  },
+  "pdf-watermark-remover": {
+    "name": "PDF 去水印",
+    "description": "确认水印后移除，保留文档文字与结构。"
+  },
+  "word-watermark-remover": {
+    "name": "Word 去水印",
+    "description": "确认水印后移除，保留文档文字与结构。"
+  },
+  "ppt-watermark-remover": {
+    "name": "PPT 去水印",
+    "description": "确认水印后移除，保留文档文字与结构。"
+  },
+  "video-compressor": {
+    "name": "视频压缩",
+    "description": "让视频更轻巧，让精彩保持清晰。"
+  },
+  "image-compressor": {
+    "name": "图片压缩",
+    "description": "批量压缩图片，保留透明背景与动画。"
+  },
+  "pdf-compressor": {
+    "name": "PDF 压缩",
+    "description": "让文档便于分享，文字依旧清晰可读。"
+  },
+  "audio-compressor": {
+    "name": "音频压缩",
+    "description": "调整码率与音质，给声音减减负。"
+  },
+  "video-cutter": {
+    "name": "视频剪切",
+    "description": "精确选取片段，留下需要的部分。"
+  },
+  "video-cropper": {
+    "name": "视频画面裁剪",
+    "description": "自由裁剪画面，适配不同尺寸。"
+  },
+  "audio-cutter": {
+    "name": "音频剪辑",
+    "description": "剪切、拼接、淡入淡出，声音恰到好处。"
+  },
+  "video-to-mp3": {
+    "name": "视频转 MP3",
+    "description": "提取视频音轨，随时随地听。"
+  },
+  "video-converter": {
+    "name": "视频格式转换",
+    "description": "转换常见格式，适配不同设备。"
+  },
+  "audio-converter": {
+    "name": "音频格式转换",
+    "description": "转换音频格式，让声音自由流转。"
+  },
+  "image-converter": {
+    "name": "图片格式转换",
+    "description": "轻松转换图片，满足不同用途。"
+  },
+  "transcription": {
+    "name": "音视频转文字",
+    "description": "自动转写，识别说话人并标注时间。"
+  },
+  "video-translator": {
+    "name": "视频翻译",
+    "description": "保留原音，生成译文或双语字幕。"
+  },
+  "document-translator": {
+    "name": "文档翻译",
+    "description": "翻译文档，保留版式与章节结构。"
+  },
+  "image-translator": {
+    "name": "图片翻译",
+    "description": "识别并翻译图片文字，重新排版。"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "verifySubject": "驗證你的 FormatOwl 信箱",
+  "resetSubject": "重置你的 FormatOwl 密碼",
+  "verify": "點選下方連結驗證信箱，然後返回 FormatOwl 登入。連結 1 小時內有效。",
+  "reset": "點選下方連結設定新密碼。連結 30 分鐘內有效。",
+  "ignore": "如果不是你發起的請求，請忽略這封郵件。"
+}

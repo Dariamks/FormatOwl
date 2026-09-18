@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Hapus tanda air gambar",
+    "description": "Pilih watermark, ulangi perubahan, dan simpan konten yang penting."
+  },
+  "pdf-watermark-remover": {
+    "name": "Hapus tanda air PDF",
+    "description": "Pilih watermark, ulangi perubahan, dan simpan konten yang penting."
+  },
+  "word-watermark-remover": {
+    "name": "Hapus tanda air Word",
+    "description": "Pilih watermark, ulangi perubahan, dan simpan konten yang penting."
+  },
+  "ppt-watermark-remover": {
+    "name": "Hapus tanda air PowerPoint",
+    "description": "Pilih watermark, ulangi perubahan, dan simpan konten yang penting."
+  },
+  "video-compressor": {
+    "name": "Kompres video",
+    "description": "file yang lebih kecil. Cerita yang sama hebat."
+  },
+  "image-compressor": {
+    "name": "Kompres gambar",
+    "description": "Cahaya gambar Anda, piksel per piksel."
+  },
+  "pdf-compressor": {
+    "name": "Kompres PDF",
+    "description": "Dokumen yang mudah dibagikan, sangat mudah dibaca."
+  },
+  "audio-compressor": {
+    "name": "Kompres audio",
+    "description": "kurang ruang Lebih banyak ruang untuk suara Anda."
+  },
+  "video-cutter": {
+    "name": "Potong video",
+    "description": "Tetaplah saat-saat yang penting."
+  },
+  "video-cropper": {
+    "name": "Pangkas bingkai video",
+    "description": "Temukan frame yang tepat untuk setiap layar."
+  },
+  "audio-cutter": {
+    "name": "Edit audio",
+    "description": "Menggosok, menggosok, dan membuatnya terdengar tepat."
+  },
+  "video-to-mp3": {
+    "name": "Video ke MP3",
+    "description": "Ambil suara dengan Anda."
+  },
+  "video-converter": {
+    "name": "Konversi video",
+    "description": "Format yang tepat, pada perangkat apa pun."
+  },
+  "audio-converter": {
+    "name": "Konversi audio",
+    "description": "Biarkan audio Anda pergi ke mana saja."
+  },
+  "image-converter": {
+    "name": "Konversi gambar",
+    "description": "Format segar untuk setiap gambar."
+  },
+  "transcription": {
+    "name": "Audio dan video ke teks",
+    "description": "Mengubah percakapan menjadi sesuatu yang berguna."
+  },
+  "video-translator": {
+    "name": "Terjemahkan video",
+    "description": "Berikan cerita Anda bahasa baru."
+  },
+  "document-translator": {
+    "name": "Terjemahkan dokumen",
+    "description": "melalui bahasa. dengan struktur yang tidak terintegrasi."
+  },
+  "image-translator": {
+    "name": "Terjemahkan gambar",
+    "description": "Baca dunia dalam bahasa Anda."
+  }
+}

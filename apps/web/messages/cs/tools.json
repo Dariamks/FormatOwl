@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Odstranit vodoznaky z obrázku",
+    "description": "Vyberte vodní značky, zkontrolujte změny a uchovávejte obsah, který je důležitý."
+  },
+  "pdf-watermark-remover": {
+    "name": "Odstranit vodoznaky z PDF",
+    "description": "Vyberte vodní značky, zkontrolujte změny a uchovávejte obsah, který je důležitý."
+  },
+  "word-watermark-remover": {
+    "name": "Odstranit vodoznaky z Wordu",
+    "description": "Vyberte vodní značky, zkontrolujte změny a uchovávejte obsah, který je důležitý."
+  },
+  "ppt-watermark-remover": {
+    "name": "Odstranit vodoznaky z PowerPointu",
+    "description": "Vyberte vodní značky, zkontrolujte změny a uchovávejte obsah, který je důležitý."
+  },
+  "video-compressor": {
+    "name": "Komprimovat video",
+    "description": "A ještě menší soubor. Stejný velký příběh."
+  },
+  "image-compressor": {
+    "name": "Komprimovat obrázek",
+    "description": "Světlejte obrázky, pixel po pixel."
+  },
+  "pdf-compressor": {
+    "name": "Komprimovat PDF",
+    "description": "Jednoduché sdílení dokumentů, dokonale čitelné."
+  },
+  "audio-compressor": {
+    "name": "Komprimovat zvuk",
+    "description": "Méně prostoru Více místa pro váš zvuk."
+  },
+  "video-cutter": {
+    "name": "Zkrátit video",
+    "description": "Udržujte si momenty, které jsou důležité."
+  },
+  "video-cropper": {
+    "name": "Oříznout obraz videa",
+    "description": "Najděte správný rám pro každý obrazovku."
+  },
+  "audio-cutter": {
+    "name": "Upravit zvuk",
+    "description": "Třete, rozmazněte a udělejte to správným zvukem."
+  },
+  "video-to-mp3": {
+    "name": "Video do MP3",
+    "description": "Vezměte si zvuk s sebou."
+  },
+  "video-converter": {
+    "name": "Převést video",
+    "description": "Vhodný formát, na jakémkoliv zařízení."
+  },
+  "audio-converter": {
+    "name": "Převést zvuk",
+    "description": "Ať se vaše audio dostane kamkoliv."
+  },
+  "image-converter": {
+    "name": "Převést obrázek",
+    "description": "Nový formát pro každý obrázek."
+  },
+  "transcription": {
+    "name": "Zvuk a video na text",
+    "description": "Proměňte konverzace v něco užitečného."
+  },
+  "video-translator": {
+    "name": "Přeložit video",
+    "description": "Dejte své příběhy novým jazykem."
+  },
+  "document-translator": {
+    "name": "Přeložit dokument",
+    "description": "přes jazyky. s strukturou netrpělivé."
+  },
+  "image-translator": {
+    "name": "Přeložit obrázek",
+    "description": "Čtěte svět ve vašem jazyce."
+  }
+}

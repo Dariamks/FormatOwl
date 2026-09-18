@@ -1,0 +1,13 @@
+{
+  "formats_and_limits_131c753": "支援的格式與限制",
+  "input_b568d47": "輸入",
+  "output_4bed336": "輸出",
+  "how_to_use_this_tool_5db405f": "如何使用",
+  "settings_and_results_356f281": "引數與效果",
+  "file_storage_and_deletion_2f7e739": "檔案儲存與刪除",
+  "files_are_uploaded_and_processed_on_the_se_a49de44": "檔案上傳後由服務端處理，原件與結果以私有方式儲存。只有對應帳戶或瀏覽器會話可以存取，下載使用短期連結。預設在上傳 24 小時後過期，由清理程序刪除；也可在工作台提前刪除。當前本機預設額度為 24 小時最多上傳 20 個檔案。",
+  "read_the_usage_and_data_guide_cb055b8": "閱讀使用與資料說明",
+  "common_questions_f07ac22": "常見問題",
+  "related_tools_0bdd4ec": "相關工具",
+  "helpful_guides_2c00610": "繼續閱讀"
+}

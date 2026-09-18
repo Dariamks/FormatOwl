@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Remove image watermarks",
+    "description": "Select watermarks, review changes, and keep the content that matters."
+  },
+  "pdf-watermark-remover": {
+    "name": "Remove PDF watermarks",
+    "description": "Select watermarks, review changes, and keep the content that matters."
+  },
+  "word-watermark-remover": {
+    "name": "Remove Word watermarks",
+    "description": "Select watermarks, review changes, and keep the content that matters."
+  },
+  "ppt-watermark-remover": {
+    "name": "Remove PowerPoint watermarks",
+    "description": "Select watermarks, review changes, and keep the content that matters."
+  },
+  "video-compressor": {
+    "name": "Compress video",
+    "description": "A smaller file. The same great story."
+  },
+  "image-compressor": {
+    "name": "Compress image",
+    "description": "Lighten up your images, pixel by pixel."
+  },
+  "pdf-compressor": {
+    "name": "Compress PDF",
+    "description": "Easy-to-share documents, perfectly readable."
+  },
+  "audio-compressor": {
+    "name": "Compress audio",
+    "description": "Less space. More room for your sound."
+  },
+  "video-cutter": {
+    "name": "Trim video",
+    "description": "Keep the moments that matter."
+  },
+  "video-cropper": {
+    "name": "Crop video",
+    "description": "Find the right frame for every screen."
+  },
+  "audio-cutter": {
+    "name": "Edit audio",
+    "description": "Trim, fade, and make it sound just right."
+  },
+  "video-to-mp3": {
+    "name": "Video to MP3",
+    "description": "Take the sound with you."
+  },
+  "video-converter": {
+    "name": "Convert video",
+    "description": "The right format, on any device."
+  },
+  "audio-converter": {
+    "name": "Convert audio",
+    "description": "Let your audio go anywhere."
+  },
+  "image-converter": {
+    "name": "Convert image",
+    "description": "A fresh format for every image."
+  },
+  "transcription": {
+    "name": "Audio & video to text",
+    "description": "Turn conversations into something useful."
+  },
+  "video-translator": {
+    "name": "Translate video",
+    "description": "Give your story a new language."
+  },
+  "document-translator": {
+    "name": "Translate document",
+    "description": "Across languages. With structure intact."
+  },
+  "image-translator": {
+    "name": "Translate image",
+    "description": "Read the world in your language."
+  }
+}

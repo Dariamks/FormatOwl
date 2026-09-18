@@ -1,0 +1,13 @@
+{
+  "formats_and_limits_131c753": "Formats and limits",
+  "input_b568d47": "Input",
+  "output_4bed336": "Output",
+  "how_to_use_this_tool_5db405f": "How to use this tool",
+  "settings_and_results_356f281": "Settings and results",
+  "file_storage_and_deletion_2f7e739": "File storage and deletion",
+  "files_are_uploaded_and_processed_on_the_se_a49de44": "Files are uploaded and processed on the server. Originals and results are stored privately and accessed through their account or browser session; downloads use short-lived links. By default, files expire 24 hours after upload and are removed by the cleanup process. You can delete them earlier in your workspace. The current local default allowance is 20 uploaded files per 24 hours.",
+  "read_the_usage_and_data_guide_cb055b8": "Read the usage and data guide",
+  "common_questions_f07ac22": "Common questions",
+  "related_tools_0bdd4ec": "Related tools",
+  "helpful_guides_2c00610": "Helpful guides"
+}

@@ -1,0 +1,7 @@
+{
+  "verifySubject": "Kiểm tra email của bạn FormatOwl",
+  "resetSubject": "Đặt lại mật khẩu FormatOwl của bạn",
+  "verify": "Kiểm tra email của bạn, sau đó trở lại FormatOwl để đăng ký. Liên kết này sẽ hết hạn trong 1 giờ.",
+  "reset": "Thiết lập mật khẩu mới bằng cách sử dụng liên kết bên dưới. Liên kết này sẽ hết hạn trong 30 phút.",
+  "ignore": "Nếu bạn không yêu cầu điều này, bạn có thể bỏ qua email này."
+}

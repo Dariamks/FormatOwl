@@ -1,0 +1,38 @@
+{
+  "name": "@filemorph/web",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@filemorph/core": "workspace:*",
+    "@radix-ui/react-select": "^2.3.7",
+    "@radix-ui/react-slot": "^1.2.4",
+    "@uppy/aws-s3": "5.1.0",
+    "@uppy/core": "5.2.0",
+    "@waffo/pancake-ts": "0.21.0",
+    "better-auth": "1.7.5",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "drizzle-orm": "0.45.2",
+    "lucide-react": "^0.577.0",
+    "next": "16.3.5",
+    "next-intl": "4.14.5",
+    "pdfjs-dist": "^6.3.289",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-rnd": "10.5.3",
+    "tailwind-merge": "^3.5.0",
+    "wavesurfer.js": "7.12.12",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "tailwindcss": "^4.2.1"
+  }
+}

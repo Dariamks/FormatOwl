@@ -1,0 +1,42 @@
+{
+  "sources": [
+    {
+      "family": "NotoSansSC",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "sourceSha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+    },
+    {
+      "family": "NotoSansJP",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansjp/NotoSansJP%5Bwght%5D.ttf",
+      "sourceSha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f"
+    },
+    {
+      "family": "NotoSansKR",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskr/NotoSansKR%5Bwght%5D.ttf",
+      "sourceSha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252"
+    },
+    {
+      "family": "NotoSansArabic",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarabic/NotoSansArabic%5Bwdth%2Cwght%5D.ttf",
+      "sourceSha256": "63111b5b2e074dd48cc67692e0a2726d86ee94c1c37fe8598257b7b4e87e869e"
+    }
+  ],
+  "files": {
+    "NotoSans-Regular.ttf": "9e09bc2cb39b5975d0725608513c1292025769235e11dcb3a97d321273f45067",
+    "NotoSansJP-Bold.ttf": "0c4d07a65a748b3f0ddf541cd4084bc1783dae04eb2091a467b56213cd66ace5",
+    "NotoSansSC-Bold.ttf": "96d74f69f6336726599835464682338e68f63fac5f2d686507c93887b8c0fed9",
+    "NotoSerif-BoldItalic.ttf": "22cd5b536248f0d116a44623f27c4393ebc3325959fbe8708f2db3932a28de49",
+    "NotoSerif-Regular.ttf": "eeb450b064cafae9c86c1b84f04b539b9a67148be3a3979b0917427c40ba3b95",
+    "NotoSans-Bold.ttf": "1d88efef8f897fca10002c387a67667f5053ee20c0b741b6e1caa5faafbc4891",
+    "NotoSansSC-Regular.ttf": "746bd4b8f9b96d354366b42f018a5f622edfd96b536bfe4f9a815ec7e40c53a8",
+    "NotoSansJP-Regular.ttf": "67d06155791b025c6fe0befb1bcec1629c8e7d7b896906a1cb7305bb39b2d0d0",
+    "NotoSerif-Italic.ttf": "b3be81760bbe17c8a8f05641e49f585a965372776efdcd193b9124f62be8617a",
+    "NotoSansKR-Regular.ttf": "d3b73047bfcb775b59f74849f81599201e515a0ff5a4f2e584a7b60e7646932a",
+    "NotoSerif-Bold.ttf": "12b8cb673d8e87a98ab2a11156f343d64a661bd881a01c9d2f5d7c143e713cb6",
+    "NotoSans-BoldItalic.ttf": "e8945d502e8fbf87bad4e48c6fbb1aafb09a41f031b9befe5e4398d9b47d441d",
+    "NotoSansArabic-Bold.ttf": "28a34d207b35c03fa0b5f1a8db942f348f7f7a3ccfa5ce6bfc393f61ef05ab4f",
+    "NotoSansArabic-Regular.ttf": "f791d432a0996d343b014a0efc862859ebe6eae61630f9cbe7ffbdb0c6c4e37d",
+    "NotoSansKR-Bold.ttf": "1316c08f71107edd5ef4a1aa724ab5ea2b1b1e6a5874f20aef92a0eff5c8c0c2",
+    "NotoSans-Italic.ttf": "9d218f7306c99f0025c72b0eb08dc2c40a4d78d282e1f0e98e69ce85fd9da01d"
+  }
+}

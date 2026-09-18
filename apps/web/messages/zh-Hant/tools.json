@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "圖片去浮水印",
+    "description": "圈選浮水印，預覽背景修復效果。"
+  },
+  "pdf-watermark-remover": {
+    "name": "PDF 去浮水印",
+    "description": "確認浮水印後移除，保留文件文字與結構。"
+  },
+  "word-watermark-remover": {
+    "name": "Word 去浮水印",
+    "description": "確認浮水印後移除，保留文件文字與結構。"
+  },
+  "ppt-watermark-remover": {
+    "name": "PPT 去浮水印",
+    "description": "確認浮水印後移除，保留文件文字與結構。"
+  },
+  "video-compressor": {
+    "name": "影片壓縮",
+    "description": "讓影片更輕巧，讓精彩保持清晰。"
+  },
+  "image-compressor": {
+    "name": "圖片壓縮",
+    "description": "批次壓縮圖片，保留透明背景與動畫。"
+  },
+  "pdf-compressor": {
+    "name": "PDF 壓縮",
+    "description": "讓文件便於分享，文字依舊清晰可讀。"
+  },
+  "audio-compressor": {
+    "name": "音訊壓縮",
+    "description": "調整位元速率與音質，給聲音減減負。"
+  },
+  "video-cutter": {
+    "name": "影片剪輯",
+    "description": "精確選取片段，留下需要的部分。"
+  },
+  "video-cropper": {
+    "name": "影片畫面裁切",
+    "description": "自由裁切畫面，適配不同尺寸。"
+  },
+  "audio-cutter": {
+    "name": "音訊剪輯",
+    "description": "剪輯、拼接、淡入淡出，聲音恰到好處。"
+  },
+  "video-to-mp3": {
+    "name": "影片轉 MP3",
+    "description": "提取影片音軌，隨時隨地聽。"
+  },
+  "video-converter": {
+    "name": "影片格式轉換",
+    "description": "轉換常見格式，適配不同裝置。"
+  },
+  "audio-converter": {
+    "name": "音訊格式轉換",
+    "description": "轉換音訊格式，讓聲音自由流轉。"
+  },
+  "image-converter": {
+    "name": "圖片格式轉換",
+    "description": "輕鬆轉換圖片，滿足不同用途。"
+  },
+  "transcription": {
+    "name": "音訊與影片轉文字",
+    "description": "自動轉寫，識別說話人並標註時間。"
+  },
+  "video-translator": {
+    "name": "影片翻譯",
+    "description": "保留原音，生成譯文或雙語字幕。"
+  },
+  "document-translator": {
+    "name": "文件翻譯",
+    "description": "翻譯文件，保留版式與章節結構。"
+  },
+  "image-translator": {
+    "name": "圖片翻譯",
+    "description": "識別並翻譯圖片文字，重新排版。"
+  }
+}

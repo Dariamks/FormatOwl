@@ -1,0 +1,7 @@
+{
+  "verifySubject": "Periksa email Anda FormatOwl",
+  "resetSubject": "Mengembalikan kata sandi FormatOwl Anda",
+  "verify": "Periksa email Anda, kemudian kembali ke FormatOwl untuk mendaftar. Link ini akan berakhir dalam satu jam.",
+  "reset": "Menetapkan kata sandi baru menggunakan link di bawah ini. Link ini akan berakhir dalam waktu 30 menit.",
+  "ignore": "Jika Anda tidak meminta ini, Anda dapat mengabaikan email ini."
+}

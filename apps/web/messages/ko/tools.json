@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "이미지 워터마크 제거",
+    "description": "물표를 선택하고, 변경 사항을 검토하고, 중요한 내용을 유지합니다."
+  },
+  "pdf-watermark-remover": {
+    "name": "PDF 워터마크 제거",
+    "description": "물표를 선택하고, 변경 사항을 검토하고, 중요한 내용을 유지합니다."
+  },
+  "word-watermark-remover": {
+    "name": "Word 워터마크 제거",
+    "description": "물표를 선택하고, 변경 사항을 검토하고, 중요한 내용을 유지합니다."
+  },
+  "ppt-watermark-remover": {
+    "name": "PowerPoint 워터마크 제거",
+    "description": "물표를 선택하고, 변경 사항을 검토하고, 중요한 내용을 유지합니다."
+  },
+  "video-compressor": {
+    "name": "동영상 압축",
+    "description": "작은 파일이 있습니다. 같은 멋진 이야기."
+  },
+  "image-compressor": {
+    "name": "이미지 압축",
+    "description": "당신의 이미지를 밝게, 픽셀에 따라."
+  },
+  "pdf-compressor": {
+    "name": "PDF 압축",
+    "description": "쉽게 공유할 수 있는 문서, 완벽하게 읽을 수 있습니다."
+  },
+  "audio-compressor": {
+    "name": "오디오 압축",
+    "description": "공간이 덜 당신의 소리에 더 많은 공간을 제공합니다."
+  },
+  "video-cutter": {
+    "name": "동영상 구간 자르기",
+    "description": "중요한 순간들을 지켜라."
+  },
+  "video-cropper": {
+    "name": "동영상 화면 자르기",
+    "description": "각 화면에 맞는 프레임을 찾으십시오."
+  },
+  "audio-cutter": {
+    "name": "오디오 편집",
+    "description": "흔들리라, 흔들리고, 그것이 정확하게 들리게 하라."
+  },
+  "video-to-mp3": {
+    "name": "동영상을 MP3로 변환",
+    "description": "소리를 너와 함께 가져오라."
+  },
+  "video-converter": {
+    "name": "동영상 변환",
+    "description": "적절한 형식, 모든 장치에"
+  },
+  "audio-converter": {
+    "name": "오디오 변환",
+    "description": "오디오를 어디서나 옮기십시오."
+  },
+  "image-converter": {
+    "name": "이미지 변환",
+    "description": "각 이미지에 대한 신선한 형식입니다."
+  },
+  "transcription": {
+    "name": "오디오 및 동영상 텍스트 변환",
+    "description": "대화를 유용한 것으로 바꾸십시오."
+  },
+  "video-translator": {
+    "name": "동영상 번역",
+    "description": "당신의 이야기를 새로운 언어로 만들고 싶습니다."
+  },
+  "document-translator": {
+    "name": "문서 번역",
+    "description": "언어를 통해서 구조가 무한한 상태입니다."
+  },
+  "image-translator": {
+    "name": "이미지 번역",
+    "description": "당신의 언어로 세계를 읽으십시오."
+  }
+}

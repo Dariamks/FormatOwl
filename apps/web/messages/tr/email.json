@@ -1,0 +1,7 @@
+{
+  "verifySubject": "FormatOwl e-postanızı kontrol edin",
+  "resetSubject": "FormatOwl şifrenizi yeniden ayarlayın",
+  "verify": "E-posta adresinizi kontrol edin ve kaydolmak için FormatOwl'e geri dönün. Bu bağlantı 1 saat içinde sona erer.",
+  "reset": "Aşağıdaki linkle yeni bir şifre ayarlayın. Bu bağlantı 30 dakika içinde sona erer.",
+  "ignore": "Bunu istemediyseniz, bu e-postayi görmezden gelebilirsiniz."
+}

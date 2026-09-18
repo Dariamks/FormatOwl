@@ -1,0 +1,7 @@
+{
+  "verifySubject": "Vérifier votre email FormatOwl",
+  "resetSubject": "Récupérer votre mot de passe FormatOwl",
+  "verify": "Vérifiez votre email, puis retournez à FormatOwl pour vous inscrire. Ce lien expire en 1 heure.",
+  "reset": "Définissez un nouveau mot de passe en utilisant le lien ci-dessous. Ce lien expire en 30 minutes.",
+  "ignore": "Si vous n’avez pas demandé cela, vous pouvez ignorer ce courriel."
+}

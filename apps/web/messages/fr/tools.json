@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Supprimer les filigranes d’une image",
+    "description": "Sélectionnez les marques d'eau, réviser les changements et garder le contenu qui est important."
+  },
+  "pdf-watermark-remover": {
+    "name": "Supprimer les filigranes d’un PDF",
+    "description": "Sélectionnez les marques d'eau, réviser les changements et garder le contenu qui est important."
+  },
+  "word-watermark-remover": {
+    "name": "Supprimer les filigranes Word",
+    "description": "Sélectionnez les marques d'eau, réviser les changements et garder le contenu qui est important."
+  },
+  "ppt-watermark-remover": {
+    "name": "Supprimer les filigranes PowerPoint",
+    "description": "Sélectionnez les marques d'eau, réviser les changements et garder le contenu qui est important."
+  },
+  "video-compressor": {
+    "name": "Compresser une vidéo",
+    "description": "Un petit fichier. La même grande histoire."
+  },
+  "image-compressor": {
+    "name": "Compresser une image",
+    "description": "Il faut éclater vos images, pixels par pixel."
+  },
+  "pdf-compressor": {
+    "name": "Compresser un PDF",
+    "description": "Documents faciles à partager, parfaitement lisibles."
+  },
+  "audio-compressor": {
+    "name": "Compresser un fichier audio",
+    "description": "Moins d’espace Plus de place pour votre son."
+  },
+  "video-cutter": {
+    "name": "Couper une vidéo",
+    "description": "Gardez les moments qui sont importants."
+  },
+  "video-cropper": {
+    "name": "Recadrer une vidéo",
+    "description": "Trouvez le bon cadre pour chaque écran."
+  },
+  "audio-cutter": {
+    "name": "Modifier un fichier audio",
+    "description": "Trim, fade, et faire sonner juste correctement."
+  },
+  "video-to-mp3": {
+    "name": "Vidéo en MP3",
+    "description": "Prenez le son avec vous."
+  },
+  "video-converter": {
+    "name": "Convertir une vidéo",
+    "description": "Le bon format, sur n’importe quel appareil."
+  },
+  "audio-converter": {
+    "name": "Convertir un fichier audio",
+    "description": "Laissez votre audio aller n'importe où."
+  },
+  "image-converter": {
+    "name": "Convertir une image",
+    "description": "Un format frais pour chaque image."
+  },
+  "transcription": {
+    "name": "Transcrire un fichier audio ou vidéo",
+    "description": "Transformez les conversations en quelque chose d’util."
+  },
+  "video-translator": {
+    "name": "Traduire une vidéo",
+    "description": "Donnez votre histoire une nouvelle langue."
+  },
+  "document-translator": {
+    "name": "Traduire un document",
+    "description": "par les langues. avec une structure intacte."
+  },
+  "image-translator": {
+    "name": "Traduire une image",
+    "description": "Lire le monde dans votre langue."
+  }
+}

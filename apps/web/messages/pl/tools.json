@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "Usuń znaki wodne z obrazu",
+    "description": "Wybierz wódniki, przeglądaj zmiany i przechowuj treść, która ma znaczenie."
+  },
+  "pdf-watermark-remover": {
+    "name": "Usuń znaki wodne z PDF",
+    "description": "Wybierz wódniki, przeglądaj zmiany i przechowuj treść, która ma znaczenie."
+  },
+  "word-watermark-remover": {
+    "name": "Usuń znaki wodne z Word",
+    "description": "Wybierz wódniki, przeglądaj zmiany i przechowuj treść, która ma znaczenie."
+  },
+  "ppt-watermark-remover": {
+    "name": "Usuń znaki wodne z PowerPoint",
+    "description": "Wybierz wódniki, przeglądaj zmiany i przechowuj treść, która ma znaczenie."
+  },
+  "video-compressor": {
+    "name": "Kompresuj wideo",
+    "description": "Mały plik jest mniejszy. To samo wspaniałe opowieść."
+  },
+  "image-compressor": {
+    "name": "Kompresuj obraz",
+    "description": "Wzmocnij swoje obrazy, pixel na pixel."
+  },
+  "pdf-compressor": {
+    "name": "Kompresuj PDF",
+    "description": "Dokumenty łatwe do udostępniania, doskonale czytelne."
+  },
+  "audio-compressor": {
+    "name": "Kompresuj audio",
+    "description": "Mniej miejsca na to. Więcej miejsca dla Twojego dźwięku."
+  },
+  "video-cutter": {
+    "name": "Przytnij wideo",
+    "description": "Trzymajcie się tych chwil, które mają znaczenie."
+  },
+  "video-cropper": {
+    "name": "Kadruj wideo",
+    "description": "Znajdź odpowiedni ramy dla każdego ekranu."
+  },
+  "audio-cutter": {
+    "name": "Edytuj audio",
+    "description": "Wymieszaj, wymieszaj i sprawi, że brzmi poprawnie."
+  },
+  "video-to-mp3": {
+    "name": "Wideo do MP3",
+    "description": "Zrób z sobą dźwięk."
+  },
+  "video-converter": {
+    "name": "Konwertuj wideo",
+    "description": "W odpowiednim formacie, na dowolnym urządzeniu."
+  },
+  "audio-converter": {
+    "name": "Konwertuj audio",
+    "description": "Niech Twój audio idzie wszędzie."
+  },
+  "image-converter": {
+    "name": "Konwertuj obraz",
+    "description": "Nowy format dla każdego obrazu."
+  },
+  "transcription": {
+    "name": "Audio i wideo na tekst",
+    "description": "Zmień rozmowy w coś przydatnego."
+  },
+  "video-translator": {
+    "name": "Przetłumacz wideo",
+    "description": "Dajcie swojemu dziecku nowy język."
+  },
+  "document-translator": {
+    "name": "Przetłumacz dokument",
+    "description": "W językach po całym. Z strukturą niezawodną."
+  },
+  "image-translator": {
+    "name": "Przetłumacz obraz",
+    "description": "Przeczytaj świat w swoim języku."
+  }
+}

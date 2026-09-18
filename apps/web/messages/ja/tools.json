@@ -1,0 +1,78 @@
+{
+  "image-watermark-remover": {
+    "name": "画像の透かしを除去",
+    "description": "水分マークを選択し、変更を検討し、重要なコンテンツを保存します。"
+  },
+  "pdf-watermark-remover": {
+    "name": "PDF の透かしを除去",
+    "description": "水分マークを選択し、変更を検討し、重要なコンテンツを保存します。"
+  },
+  "word-watermark-remover": {
+    "name": "Word の透かしを除去",
+    "description": "水分マークを選択し、変更を検討し、重要なコンテンツを保存します。"
+  },
+  "ppt-watermark-remover": {
+    "name": "PowerPoint の透かしを除去",
+    "description": "水分マークを選択し、変更を検討し、重要なコンテンツを保存します。"
+  },
+  "video-compressor": {
+    "name": "動画を圧縮",
+    "description": "より小さなファイル 同じ偉大な物語。"
+  },
+  "image-compressor": {
+    "name": "画像を圧縮",
+    "description": "画像をピクセルで照らす。"
+  },
+  "pdf-compressor": {
+    "name": "PDF を圧縮",
+    "description": "簡単に共有できる文書、完璧に読みやすい。"
+  },
+  "audio-compressor": {
+    "name": "音声を圧縮",
+    "description": "スペースが少なくなる。 音のためのスペースが多くなります。"
+  },
+  "video-cutter": {
+    "name": "動画をトリミング",
+    "description": "重要な瞬間を守ってください。"
+  },
+  "video-cropper": {
+    "name": "動画をクロップ",
+    "description": "それぞれの画面に正しいフレームを見つける。"
+  },
+  "audio-cutter": {
+    "name": "音声を編集",
+    "description": "トリム、フード、そしてそれが正しく聞こえるようにする。"
+  },
+  "video-to-mp3": {
+    "name": "動画を MP3 に変換",
+    "description": "音をあなたと一緒に持って行こう。"
+  },
+  "video-converter": {
+    "name": "動画を変換",
+    "description": "適切な形式で、あらゆるデバイスに"
+  },
+  "audio-converter": {
+    "name": "音声を変換",
+    "description": "オーディオはどこへでも行け。"
+  },
+  "image-converter": {
+    "name": "画像を変換",
+    "description": "すべての画像に新鮮なフォーマット"
+  },
+  "transcription": {
+    "name": "音声・動画の文字起こし",
+    "description": "会話を役に立つものに変える。"
+  },
+  "video-translator": {
+    "name": "動画を翻訳",
+    "description": "新しい言語をあなたの物語に伝える。"
+  },
+  "document-translator": {
+    "name": "文書を翻訳",
+    "description": "言語を通して。 構造が無形。"
+  },
+  "image-translator": {
+    "name": "画像を翻訳",
+    "description": "あなたの言語で世界を読んでください。"
+  }
+}

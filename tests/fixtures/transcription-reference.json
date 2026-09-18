@@ -1,0 +1,7 @@
+{
+  "description": "Original bilingual reference script for local speech verification. The reference text is freely reusable. Generated audio stays in .data and is not committed.",
+  "parts": [
+    { "voice": "Tingting", "language": "zh", "text": "大家好，欢迎参加今天的项目会议。我们正在测试音视频转文字功能，确认中文识别、说话人区分和时间戳能够正常工作。" },
+    { "voice": "Daniel", "language": "en", "text": "Thank you. Today we are testing audio transcription, speaker labels, and timestamps. The edited transcript should export correctly in all five formats." }
+  ]
+}
