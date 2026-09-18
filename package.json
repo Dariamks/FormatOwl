@@ -8,6 +8,7 @@
     "infra:up": "docker compose up -d --wait",
     "infra:down": "docker compose down",
     "setup:local": "tsx --env-file=.env scripts/setup.ts",
+    "migrate:prod": "tsx scripts/migrate.ts",
     "build": "pnpm check:i18n && pnpm i18n:manifest && pnpm --filter @filemorph/web build",
     "typecheck": "pnpm -r typecheck",
     "test": "vitest run",
