@@ -4,10 +4,15 @@ import { s3 } from '@filemorph/core/storage';
 import { bucket } from '@filemorph/core/config';
 import { CreateBucketCommand, HeadBucketCommand, PutBucketCorsCommand } from '@aws-sdk/client-s3';
 
-const appUrl = process.env.APP_URL;
-if (!appUrl) throw new Error('APP_URL is required for production migrations');
 if (!process.env.DATABASE_URL) throw new Error('DATABASE_URL is required for production migrations');
-if (!process.env.S3_ENDPOINT) throw new Error('S3_ENDPOINT is required for production migrations');
+
+const storageConfigReady = [
+  'APP_URL',
+  'S3_ENDPOINT',
+  'S3_ACCESS_KEY_ID',
+  'S3_SECRET_ACCESS_KEY',
+  'S3_BUCKET',
+].every((name) => process.env[name]);
 
 const client = sqlClient();
 try {
@@ -25,30 +30,37 @@ try {
     console.log(`Applied migration ${name}`);
   }
 
-  try {
-    await s3().send(new HeadBucketCommand({ Bucket: bucket() }));
-  } catch (error) {
-    if ((error as { $metadata?: { httpStatusCode?: number } }).$metadata?.httpStatusCode !== 404)
-      throw error;
-    await s3().send(new CreateBucketCommand({ Bucket: bucket() }));
+  if (storageConfigReady) {
+    const appUrl = process.env.APP_URL!;
+    try {
+      await s3().send(new HeadBucketCommand({ Bucket: bucket() }));
+    } catch (error) {
+      if ((error as { $metadata?: { httpStatusCode?: number } }).$metadata?.httpStatusCode !== 404)
+        throw error;
+      await s3().send(new CreateBucketCommand({ Bucket: bucket() }));
+    }
+    await s3().send(
+      new PutBucketCorsCommand({
+        Bucket: bucket(),
+        CORSConfiguration: {
+          CORSRules: [
+            {
+              AllowedOrigins: [new URL(appUrl).origin],
+              AllowedMethods: ['GET', 'PUT', 'HEAD'],
+              AllowedHeaders: ['*'],
+              ExposeHeaders: ['ETag'],
+              MaxAgeSeconds: 3600,
+            },
+          ],
+        },
+      }),
+    );
+    console.log('Production database migrations and storage CORS are ready.');
+  } else {
+    console.warn(
+      'Database migrations are ready. Skipping storage bucket setup because production S3 variables are incomplete.',
+    );
   }
-  await s3().send(
-    new PutBucketCorsCommand({
-      Bucket: bucket(),
-      CORSConfiguration: {
-        CORSRules: [
-          {
-            AllowedOrigins: [new URL(appUrl).origin],
-            AllowedMethods: ['GET', 'PUT', 'HEAD'],
-            AllowedHeaders: ['*'],
-            ExposeHeaders: ['ETag'],
-            MaxAgeSeconds: 3600,
-          },
-        ],
-      },
-    }),
-  );
-  console.log('Production database migrations and storage CORS are ready.');
 } finally {
   await client.end();
 }
