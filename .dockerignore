@@ -2,8 +2,14 @@
 .data
 .node_modules
 node_modules
+**/.next
+**/node_modules
+**/__pycache__
+**/*.pyc
 playwright-report
 test-results
+.pytest_cache
+*.tsbuildinfo
 .env
 .env.*
 !.env.example

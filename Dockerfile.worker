@@ -19,4 +19,5 @@ ENV PYTHON_PATH=/opt/venv/bin/python
 ENV FFMPEG_PATH=/usr/bin/ffmpeg
 ENV FFPROBE_PATH=/usr/bin/ffprobe
 ENV SOFFICE_PATH=/usr/bin/soffice
-CMD ["pnpm", "--filter", "@filemorph/worker", "start"]
+WORKDIR /app/apps/worker
+CMD ["node", "node_modules/tsx/dist/cli.mjs", "src/index.ts"]
